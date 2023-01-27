@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+.Juan {
+  text-align: center;
+  color: coral;
+}
+
+.Mascota {
+  text-align: center;
+  color: rgb(205, 98, 219);
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
